@@ -1,4 +1,4 @@
-This is the source code for the Better Ocarina of Time hack (link) by Maroc. This project is based off Roman971's fork of OoT-Randomizer (https://github.com/Roman971/OoT-Randomizer)
+This is the source code for the Ocarina of Time REDUX hack (http://www.romhacking.net/hacks/5138/) by Maroc. This project is based off Roman971's fork of OoT-Randomizer (https://github.com/Roman971/OoT-Randomizer)
 
 NB: To select the 2x text speed version instead of the 3x, rename the `patch2xtext.bps` file to `patch.bps` inside the `patch` directory, overwriting the previous one. The default `patch.bps` is the one with 3x text speed.
 
